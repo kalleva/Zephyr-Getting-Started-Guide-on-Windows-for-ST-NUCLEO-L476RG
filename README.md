@@ -68,7 +68,7 @@ setup.cmd
 
 ```west build -p always -b nucleo_l476rg samples\basic\blinky```
 
-## Flash the Sample
+## Flash the Sample
 
 ```west flash```
 
